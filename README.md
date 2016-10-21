@@ -21,6 +21,13 @@ Options:
   
 漏扫检测脚本存放在script目录下。
 
+#### 支持漏洞
+* SlowHttp
+* WebDav
+
+更多功能可以参考项目：[PyAttack](https://github.com/tengzhangchao/PyAttack)
+
+
 #### @_author_:   nmask    
 #### @__Date__:   2016.4.12
 
